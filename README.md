@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+About Me<br><br>I am an Information Systems student at Universitas Airlangga with a strong passion for bridging human potential with data-driven strategy.<br>I thrive at the intersection of Human Resources, Public Relations & Stakeholder Management, and Data Visualization. My focus is on leveraging analytical insights to optimize organizational development, enhance employee engagement, and drive impactful communication.<br><br>🎓 Studying Information Systems at Universitas Airlangga.<br><br>💼 Currently serving as HR Director at Do Well Do Good Unair, Digistar Club Unair & Vice President at HIMSI UNAIR.<br><br>📊 Building interactive dashboards (Looker Studio / Data Studio) like HRPO and LMX Performance Trackers.<br><br>📣 Experienced in high-stakes Public Relations, managing 20+ external stakeholders and leading large-scale organizational events.<br><br>🏆 Gold Medalist & Best Tech Impact Awardee at iReX Malaysia 2026.<br><br>🎯 Core Interests & Focus Areas<br><br>Human Resources & People Analytics: Talent Management, Employee Engagement, Behavioral Event Interviewing (BEI), & Performance Tracking (LMX).<br>Public Relations & Event Leadership: Stakeholder Negotiation, Strategic Communication, Community Outreach, & Crisis Management.<br>Data Visualization & Analytics: Data Preprocessing, Looker Studio/Google Data Studio, Database Management, & Decision-Making Analytics.<br><br>🫶🏻 Domain Competencies<br>People Strategy: HR Frameworks (ORO Harvard, BEI STAR), Talent Acquisition, Performance Appraisal Systems.<br>Data & Systems: Data Cleaning & Validation, Database Structuring, Interactive Visual Dashboards.<br>Communication & Leadership: Cross-functional Collaboration, Public Relations, Event Management, Strategic Planning.<br><br>⚡ Quick Stats & Highlights<br>📈 Surplus & Target Exceeded: Raised event funding by >200% and boosted attendance by 40% across major initiatives.<br>🎯 100% Tracking Coverage: Successfully deployed Staff Performance Tracker to 100% of organization members for objective evaluation.<br>🌐 Stakeholder Network: Managed relations with 20+ partners and led communication streams for 750+ participants.<br><br>📫 Connect with Me<br>📧 Email: mrizkifahreezi71@gmail.com<br>💼 LinkedIn: linkedin.com/in/muhammad-rizki-fahrezi
 
-<!--
-**Ziishikawaa/Ziishikawaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fahrezyfahrezii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-rizki-fahrezi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrizkifahrezi71@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ziishikawaa&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ziishikawaa&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ziishikawaa&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Ziishikawaa&icon=4&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
